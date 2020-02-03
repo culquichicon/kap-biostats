@@ -4,4 +4,4 @@ This is the analysis conducted for the study entitled "Knowledge, attitudes, and
 
 ## codebook
 Find out the code here:
-- Data analysis: [_da_lca_estadistica5_](https://github.com/culquichicon/Scientific_writing/blob/master/da_writing%20and%20publication_v1.do)
+- Data analysis: [_da_lca_estadistica5_](https://github.com/culquichicon/kap-biostats/blob/master/da_lca_estadistica5.do)
